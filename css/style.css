@@ -71,7 +71,6 @@ h1{
     width: 25px;
     margin: 40px auto 0;
     cursor: pointer;
-
 }
 
 .social-links img, useful-links img{
@@ -186,6 +185,28 @@ cursor:pointer;
     padding: 0 10px;
     box-sizing: border-box;
 }
+
+.social-links{
+    width: auto;
+    position: unset;
+    transform: none;
+}
+
+.useful-links{
+    width: auto;
+    position: unset;
+    bottom: 30px;
+}
+
+.menu{
+    width: 18px;
+    margin: 0;
+}
+
+.hero{
+    background-image: url();
+}
+
 }
 
 @media screen and (max-width: 600px){
