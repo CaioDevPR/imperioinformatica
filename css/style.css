@@ -1,7 +1,9 @@
 body, ul {
     margin: 0px;
     padding: 0px;
+
 }
+
 
 a {
     color: #000;
@@ -10,7 +12,8 @@ a {
 }
 
 a:hover{
-    background: rgba(0,0,0, 0.05);
+    background: #fff;
+    color: #000;
 }
 
 #logo{
@@ -52,6 +55,7 @@ a:hover{
 @media (max-width: 600px){
     #btn-mobile{
         display: block;
+        background-color: #fff;
     }
 
     #menu {
@@ -60,7 +64,8 @@ a:hover{
         width: 100%;
         top: 70px;
         right: 0;
-        background: #e7e7e7;
+        background: fff;
+        text-align: center;
         height: 0px;
         z-index: 1000;
         transition: .6s;
