@@ -77,7 +77,7 @@ h1{
     cursor: pointer;
 }
 
-.social-links img, useful-links img{
+.social-links img, .useful-links img{
 width: 25px;
 margin: 5px auto;
 cursor:pointer;
@@ -91,6 +91,20 @@ cursor:pointer;
     transform: translateY(-50%);
 }
 
+a{
+     color: #fff;
+     text-decoration: none;
+}
+
+a:hover{
+    color: red;
+    text-decoration: none;
+    transition: ease-in-out .3s;
+}
+
+@keyframes botao{
+    
+}
 .useful-links{
     width: 50px;
     text-align: center;
