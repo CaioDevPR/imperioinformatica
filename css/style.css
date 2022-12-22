@@ -218,9 +218,12 @@ cursor:pointer;
    line-height: 50px;
 }
 
+.fundo{
+    overflow: hidden;
+}
 .fundo .content a{
     position:relative;
-    top:20px
+    top:20px;
    }
 
 .logo img{
