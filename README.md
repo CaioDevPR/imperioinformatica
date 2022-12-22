@@ -4,20 +4,20 @@ Projeto feito sobe demanda para facilitar chamadas pelo serviço prestado na cid
 
 
 Conecte -se 
-[![gitHub][def]
-
-[def]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-
-[![Linkedin]
-[def]:https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[![gitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CaioDevPR)
+[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caioprogramadorpr/)
 
 Feito com --->>>
-[!linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-[def]:https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
+<div><br/>
+<img align="center" alt="html 5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+</div>
 
-[def]:https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+<img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+</div>
 
-[def]:https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+<img align="center" alt="Java Script" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+"/>
+</div>
 
 # Projeto 100% finalizado , aceito sugestões !!
