@@ -26,7 +26,7 @@
     justify-content: space-between;
 }
 
-button{
+.content a{
     color: #fff;
     padding: 30px 65px;
     background: transparent;
@@ -34,8 +34,9 @@ button{
     border-radius: 10px;
     outline: none;
     cursor: pointer;
+    text-decoration: none;
 }
-button:hover{
+.content a:hover{
     background-color: #000;
     border: #000;
 }
@@ -62,9 +63,12 @@ h1{
     color: #fff;
     transition: ease-in-out .4s;
     font-family: 'Rubik Vinyl', cursive;
-
-
 }
+
+.fundo .content a{
+    position:relative;
+    top:40px
+   }
 
 .sidebar{
     width: 50px;
@@ -97,18 +101,8 @@ cursor:pointer;
     transform: translateY(-50%);
 }
 
-a{
-     color: #fff;
-     text-decoration: none;
-     font-size: 20px;
-}
 
-a:hover{
-    color: #fff;
-    text-decoration: none;
-    transition: ease-in-out .3s;
-    animation: botao 3s infinite;
-}
+
 
 
 .useful-links{
@@ -224,7 +218,10 @@ a:hover{
    line-height: 50px;
 }
 
-
+.fundo .content a{
+    position:relative;
+    top:20px
+   }
 
 .logo img{
     width: 30%;
@@ -268,7 +265,7 @@ a:hover{
     background-image: url();
 }
 
-button{
+.content a{
     color: #fff;
     padding: 20px 65px;
     background: transparent;
@@ -277,10 +274,11 @@ button{
     outline: none;
     cursor: pointer;
 }
-button:hover{
+.content a:hover{
     background-color: #000;
     border: #000;
 }
+
 
 .content{
     color: #000;
